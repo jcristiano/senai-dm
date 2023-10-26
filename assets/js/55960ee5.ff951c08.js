@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksenai_dm=self.webpackChunksenai_dm||[]).push([[4121],{8070:e=>{e.exports=JSON.parse('[{"label":"generics","permalink":"/senai-dm/docs/tags/generics","count":1},{"label":"tipos","permalink":"/senai-dm/docs/tags/tipos","count":1}]')}}]);

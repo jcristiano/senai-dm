@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksenai_dm=self.webpackChunksenai_dm||[]).push([[3369],{275:e=>{e.exports=JSON.parse('{"label":"tipos","permalink":"/senai-dm/docs/tags/tipos","allTagsPath":"/senai-dm/docs/tags","count":1,"items":[{"id":"mobile/generics-dart","title":"Generics em Dart","description":"O que s\xe3o Generics?","permalink":"/senai-dm/docs/mobile/generics-dart"}]}')}}]);
