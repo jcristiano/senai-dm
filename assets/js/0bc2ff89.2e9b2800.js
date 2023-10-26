@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksenai_dm=self.webpackChunksenai_dm||[]).push([[3449],{7662:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/senai-dm/blog/tags/facebook","allTagsPath":"/senai-dm/blog/tags","count":1}')}}]);
