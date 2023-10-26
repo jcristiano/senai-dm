@@ -73,7 +73,7 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'mobileSidebar',
             position: 'left',
             label: 'Mobile',
           },
