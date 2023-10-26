@@ -61,3 +61,10 @@ void main(List<String> args){
   print(meuTipoInt);
 }
 ```
+
+Obtemos a seguinte saída com a execuçao do método main
+
+```sh
+[String]: 10
+[int]: 10
+```
